@@ -1,2 +1,2 @@
 # Python_Interpreter
-Интерпритатор кода python написанный на Python
+Самый простой интерпритатор кода python, написанный на Python
